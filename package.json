@@ -1,0 +1,17 @@
+{
+  "name": "filerdb",
+  "version": "0.0.1",
+  "description": "Basic nosql database, based on JSON and filesystem features. This is meant for journaling and replecative filesystems like ext4 and zfs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zfs",
+    "ext4",
+    "json",
+    "db"
+  ],
+  "author": "Kristian B",
+  "license": "MIT"
+}
